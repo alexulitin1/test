@@ -1,5 +1,3 @@
-# test
-Тестовое задание в Инлайн
 <svg width="10836" height="9249" viewBox="0 0 10836 9249" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect x="2.5" y="8875.5" width="1335" height="371" rx="97.5" stroke="#FB0000" stroke-width="5"/>
 <rect x="1413.5" y="291.5" width="1335" height="371" rx="97.5" stroke="#FB0000" stroke-width="5"/>
